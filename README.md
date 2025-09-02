@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Olá, eu sou Denis Emanuel Schmidt , Tenho 19 anos !
 
-<!--
-**DenisEmanuelS/DenisEmanuelS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🧑‍💻 Estudante de **Análise e Desenvolvimento de Sistemas (4º período)**.  
+🔧 Futuro **Engenheiro de Software**, com foco em desenvolver **soluções eficientes e escaláveis**, unindo conhecimento técnico e boas práticas de programação.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💻 Tecnologias e Ferramentas  
+- **Front-end:** HTML5, CSS3, JavaScript, React  
+- **Back-end:** Node.js, Java, C, C++  
+- **Banco de Dados:** MySQL  
+- **Outras Linguagens:** Python  
+- **Versionamento de Código:** Git  
+
+---
+
+## 🎯 Objetivo  
+Aplicar e expandir meus conhecimentos em **engenharia de software**, criando soluções inovadoras que facilitem processos e tragam impacto real.  
+
+---
+
+## 📬 Contato  
+- 📞 Telefone: (46) 99919-7403  
+- ✉️ E-mail: **denisemanuel587@gmail.com**  
