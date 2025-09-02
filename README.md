@@ -1,7 +1,8 @@
 # 👋 Olá, eu sou Denis Emanuel Schmidt , Tenho 19 anos !
 
 
-🧑‍💻 Estudante de **Análise e Desenvolvimento de Sistemas (4º período)**.  
+🧑‍💻 Estudante de **Análise e Desenvolvimento de Sistemas (4º período)**. 
+
 🔧 Futuro **Engenheiro de Software**, com foco em desenvolver **soluções eficientes e escaláveis**, unindo conhecimento técnico e boas práticas de programação.  
 
 ---
